@@ -1,7 +1,8 @@
 {
-  "orgName": "sethweiner company",
+  "orgName": "fnio scratch",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["EnableSetPasswordInApi", "API", "AuthorApex"],
+  "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
